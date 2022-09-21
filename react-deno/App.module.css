@@ -1,0 +1,11 @@
+.albumList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.albumCover {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+}
